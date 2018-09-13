@@ -31,7 +31,7 @@ The public test network is described below. We sincerely welcome and hope more d
 
 ## Contents
 
-- [Build development environment](#build-development-environment)
+- [Build development environment](#build-development-environment) 
 - [Get Ontology](#get-ontology)
     - [Get from release](#get-from-release)
     - [Get from source code](#get-from-source-code)
