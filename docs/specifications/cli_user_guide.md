@@ -81,7 +81,7 @@ Ontology CLI is an Ontology node command line Client for starting and managing O
 
 ## 1. Start and Manage Ontology Nodes
 
-Ontology CLI has a lot of startup parameters for configuring some of the Ontology node's behavior. Use ./Ontology -help to see all startup parameters supported by the Ontology CLI node. If Ontology CLI is started without any parameters, it will access the Ontology main network as a synchronous node by default.
+Ontology CLI has a lot of startup parameters to configuring some of the Ontology node's behavior. Use ./Ontology -help to see all startup parameters supported by the Ontology CLI node. If you start Ontology CLI without configuring any parameters, it will access the Ontology main network as a synchronous node by default.
 
 ### 1.1 Startup Parameters
 
