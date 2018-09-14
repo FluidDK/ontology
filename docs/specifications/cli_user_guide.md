@@ -1,4 +1,4 @@
-# Ontology CLI Instruction
+# Ontology CLI Instruction 
 
 [English|[中文](cli_user_guide_CN.md)]
 
